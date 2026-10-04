@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co Midterms GitHub Exercise", "Co Midterms GitHub Exercise\Co Midterms GitHub Exercise.csproj", "{8ED93C7D-9D22-44DB-BD04-B723FE20D846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED93C7D-9D22-44DB-BD04-B723FE20D846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED93C7D-9D22-44DB-BD04-B723FE20D846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED93C7D-9D22-44DB-BD04-B723FE20D846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED93C7D-9D22-44DB-BD04-B723FE20D846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
